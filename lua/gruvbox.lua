@@ -342,7 +342,7 @@ local function get_groups()
     Identifier = { link = "GruvboxBlue" },
     Function = { link = "GruvboxBlueBold" },
     PreProc = { link = "GruvboxAqua" },
-    Include = { link = "GruvboxAqua" },
+    Include = { link = "GruvboxAquaBold" },
     Define = { link = "GruvboxAqua" },
     Macro = { link = "GruvboxAqua" },
     PreCondit = { link = "GruvboxAqua" },
