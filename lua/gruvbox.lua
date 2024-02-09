@@ -338,7 +338,7 @@ local function get_groups()
     Label = { link = "GruvboxRed" },
     Exception = { link = "GruvboxRed" },
     Operator = { fg = colors.orange, italic = config.italic.operators },
-    Keyword = { link = "GruvboxRed" },
+    Keyword = { link = "GruvboxYellow" },
     Identifier = { link = "GruvboxBlue" },
     Function = { link = "GruvboxGreenBold" },
     PreProc = { link = "GruvboxAqua" },
