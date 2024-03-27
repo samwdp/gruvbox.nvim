@@ -341,6 +341,7 @@ local function get_groups()
     Keyword = { link = "GruvboxYellowBold" },
     Identifier = { link = "GruvboxBlue" },
     Function = { link = "GruvboxBlueBold" },
+    Delimiter = { link = "GruvboxYellowBold" },
     PreProc = { link = "GruvboxAqua" },
     Include = { link = "GruvboxYellowBold" },
     Define = { link = "GruvboxAqua" },
